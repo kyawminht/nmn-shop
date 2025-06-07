@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">nmn-clothing</string>
+    <string name="title_activity_main">nmn-clothing</string>
+    <string name="package_name">com.nmn.com</string>
+    <string name="custom_url_scheme">com.nmn.com</string>
+</resources>
