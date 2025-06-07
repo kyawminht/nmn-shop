@@ -21,6 +21,18 @@ import Imag15 from "../assets/images/17.jfif"
 import Imag16 from "../assets/images/18.jfif"
 import Imag17 from "../assets/images/19.jfif"
 
+import G1 from "../assets/images/g1 (1).jfif"
+import G2 from "../assets/images/g1 (2).jfif"
+import G3 from "../assets/images/g1 (3).jfif"
+import G4 from "../assets/images/g1 (4).jfif"
+import G5 from "../assets/images/g1 (5).jfif"
+import G6 from "../assets/images/g1 (6).jfif"
+import G7 from "../assets/images/g1 (7).jfif"
+import G8 from "../assets/images/g1 (8).jfif"
+import G9 from "../assets/images/g1 (9).jfif"
+import G10 from "../assets/images/g1 (10).jfif"
+import G11 from "../assets/images/g1 (11).jfif"
+import G12 from "../assets/images/g1 (12).jfif"
 const products = [
   {
     id: 1,
@@ -96,10 +108,50 @@ const products = [
     description: "Classic denim jacket that never goes out of style.",
   },
    {
-    id: 7,
+    id: 8,
     name: "Denim Jacket",
-    price: "၂ သောင်း ၅ ထောင်",
-    image: Imag8,
+    price: "၂၀၀ k",
+    image: G1,
+    description: "Classic denim jacket that never goes out of style.",
+  },
+   {
+    id: 9,
+    name: "Denim Jacket",
+    price: "၂၀၀ k",
+    image: G2,
+    description: "Classic denim jacket that never goes out of style.",
+  },
+   {
+    id: 10,
+    name: "Denim Jacket",
+    price: "၂၂၀၀ k",
+    images:[G3, G11, G12], 
+    description: "Classic denim jacket that never goes out of style.",
+  },
+   {
+    id: 11,
+    name: "Denim Jacket",
+    price: "၂၀၀ k",
+    images:[G4, G10],
+    description: "Classic denim jacket that never goes out of style.",
+  },
+   {
+    id: 12,
+    name: "Denim Jacket",
+    price: "၂၀၀ k",
+    images: [G5, G8, G9],
+    description: "Classic denim jacket that never goes out of style.",
+  },
+
+   {
+    id: 13,
+    name: "Denim Jacket",
+    price: "၂၀၀ k",
+    images:[
+      G6,
+      G7,
+      G8,
+    ],
     description: "Classic denim jacket that never goes out of style.",
   },
 ]
