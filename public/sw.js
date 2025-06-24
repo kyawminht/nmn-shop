@@ -5,12 +5,13 @@ importScripts("https://www.gstatic.com/firebasejs/8.10.0/firebase-messaging.js")
 
 // Initialize Firebase
 const firebaseConfig = {
-  apiKey: "AIzaSyDpmDbYBec9SeqvvvKANgqsXVw30v0I6ks",
-  authDomain: "nsdm-notification.firebaseapp.com",
-  projectId: "nsdm-notification",
-  storageBucket: "nsdm-notification.appspot.com",
-  messagingSenderId: "1066190079247",
-  appId: "1:1066190079247:web:4426620ba73e570d1d2a7a"
+   apiKey: "AIzaSyDJIIC7xnez6lXUTICxzCn02e1Cw-9Ahm4",
+  authDomain: "nmn-clothing.firebaseapp.com",
+  projectId: "nmn-clothing",
+  storageBucket: "nmn-clothing.firebasestorage.app",
+  messagingSenderId: "384405148016",
+  appId: "1:384405148016:web:3535f47276d5bc813c3fb5",
+  measurementId: "G-3L3NVJ8MXZ"
 };
 
 firebase.initializeApp(firebaseConfig);
